@@ -19,6 +19,9 @@ Groq (LLaMA 3)
 
 🤖 Pharmacist Bot
 
+
+
+
 📌 About
 
 Artificial Intelligence assistant that answers drug-related questions using PDFs leaflets, powered by RAG to ensure accurate, context-based responses.
